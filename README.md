@@ -43,20 +43,7 @@ Simple macOS app for xcodereleases.com
 │   ├── XcodeReleases.entitlements
 │   └── XcodeReleasesApp.swift
 ├── XcodeReleases.xcodeproj
-│   ├── project.pbxproj
-│   ├── project.xcworkspace
-│   │   ├── contents.xcworkspacedata
-│   │   ├── xcshareddata
-│   │   │   └── IDEWorkspaceChecks.plist
-│   │   └── xcuserdata
-│   │       └── aayushpokharel.xcuserdatad
-│   │           └── UserInterfaceState.xcuserstate
-│   └── xcuserdata
-│       └── aayushpokharel.xcuserdatad
-│           ├── xcdebugger
-│           │   └── Breakpoints_v2.xcbkptlist
-│           └── xcschemes
-│               └── xcschememanagement.plist
+|── .......
 └── readme-assets
     ├── 1.png
     └── 2.png

@@ -1,7 +1,14 @@
 # XcodeReleases
 Simple macOS app for xcodereleases.com
 
+✅ new Async Await API with URLSession to fetch the data
+✅ Codables instead of SwiftyJson to decode the data
+✅ SwiftUI to display the data
+✅ Laughable codebase
+
+
 ![](https://raw.githubusercontent.com/Aayush9029/XcodeReleases/main/readme-assets/1.png) ![](https://raw.githubusercontent.com/Aayush9029/XcodeReleases/main/readme-assets/2.png)
+
 
 
 ```

@@ -11,6 +11,23 @@
 		C298B93F277403CF009A1C37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B93E277403CF009A1C37 /* ContentView.swift */; };
 		C298B941277403CF009A1C37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C298B940277403CF009A1C37 /* Assets.xcassets */; };
 		C298B944277403CF009A1C37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C298B943277403CF009A1C37 /* Preview Assets.xcassets */; };
+		C298B94E277403F0009A1C37 /* ReleasesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B94B277403F0009A1C37 /* ReleasesView.swift */; };
+		C298B94F277403F0009A1C37 /* ReleasesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B94C277403F0009A1C37 /* ReleasesModel.swift */; };
+		C298B950277403F0009A1C37 /* ReleasesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B94D277403F0009A1C37 /* ReleasesViewModel.swift */; };
+		C298B96F27740A79009A1C37 /* ChecksumsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B96E27740A79009A1C37 /* ChecksumsModel.swift */; };
+		C298B97127740A7E009A1C37 /* CompilersModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97027740A7E009A1C37 /* CompilersModel.swift */; };
+		C298B97327740A83009A1C37 /* ClangModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97227740A83009A1C37 /* ClangModel.swift */; };
+		C298B97527740A89009A1C37 /* ClangReleaseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97427740A89009A1C37 /* ClangReleaseModel.swift */; };
+		C298B97727740A8D009A1C37 /* DateClassModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97627740A8D009A1C37 /* DateClassModel.swift */; };
+		C298B97927740A92009A1C37 /* LinksModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97827740A92009A1C37 /* LinksModel.swift */; };
+		C298B97B27740A96009A1C37 /* DownloadModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97A27740A96009A1C37 /* DownloadModel.swift */; };
+		C298B97D27740A9A009A1C37 /* NameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97C27740A9A009A1C37 /* NameModel.swift */; };
+		C298B97F27740A9E009A1C37 /* SdksModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B97E27740A9E009A1C37 /* SdksModel.swift */; };
+		C298B98127740AA3009A1C37 /* VersionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B98027740AA3009A1C37 /* VersionModel.swift */; };
+		C298B98327740AA7009A1C37 /* VersionReleaseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B98227740AA7009A1C37 /* VersionReleaseModel.swift */; };
+		C298B98527740BF1009A1C37 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B98427740BF1009A1C37 /* Constants.swift */; };
+		C298B989277410AE009A1C37 /* SingleReleaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B988277410AE009A1C37 /* SingleReleaseView.swift */; };
+		C298B98C27742056009A1C37 /* NSView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C298B98B27742056009A1C37 /* NSView+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +37,23 @@
 		C298B940277403CF009A1C37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C298B943277403CF009A1C37 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C298B945277403CF009A1C37 /* XcodeReleases.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = XcodeReleases.entitlements; sourceTree = "<group>"; };
+		C298B94B277403F0009A1C37 /* ReleasesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReleasesView.swift; sourceTree = "<group>"; };
+		C298B94C277403F0009A1C37 /* ReleasesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReleasesModel.swift; sourceTree = "<group>"; };
+		C298B94D277403F0009A1C37 /* ReleasesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReleasesViewModel.swift; sourceTree = "<group>"; };
+		C298B96E27740A79009A1C37 /* ChecksumsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecksumsModel.swift; sourceTree = "<group>"; };
+		C298B97027740A7E009A1C37 /* CompilersModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompilersModel.swift; sourceTree = "<group>"; };
+		C298B97227740A83009A1C37 /* ClangModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClangModel.swift; sourceTree = "<group>"; };
+		C298B97427740A89009A1C37 /* ClangReleaseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClangReleaseModel.swift; sourceTree = "<group>"; };
+		C298B97627740A8D009A1C37 /* DateClassModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateClassModel.swift; sourceTree = "<group>"; };
+		C298B97827740A92009A1C37 /* LinksModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinksModel.swift; sourceTree = "<group>"; };
+		C298B97A27740A96009A1C37 /* DownloadModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadModel.swift; sourceTree = "<group>"; };
+		C298B97C27740A9A009A1C37 /* NameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameModel.swift; sourceTree = "<group>"; };
+		C298B97E27740A9E009A1C37 /* SdksModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SdksModel.swift; sourceTree = "<group>"; };
+		C298B98027740AA3009A1C37 /* VersionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VersionModel.swift; sourceTree = "<group>"; };
+		C298B98227740AA7009A1C37 /* VersionReleaseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VersionReleaseModel.swift; sourceTree = "<group>"; };
+		C298B98427740BF1009A1C37 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		C298B988277410AE009A1C37 /* SingleReleaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleReleaseView.swift; sourceTree = "<group>"; };
+		C298B98B27742056009A1C37 /* NSView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSView+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +88,10 @@
 			children = (
 				C298B93C277403CF009A1C37 /* XcodeReleasesApp.swift */,
 				C298B93E277403CF009A1C37 /* ContentView.swift */,
+				C298B951277403F2009A1C37 /* Views */,
+				C298B953277403F9009A1C37 /* ViewModels */,
+				C298B952277403F5009A1C37 /* Models */,
+				C298B98A2774204C009A1C37 /* Extensions */,
 				C298B940277403CF009A1C37 /* Assets.xcassets */,
 				C298B945277403CF009A1C37 /* XcodeReleases.entitlements */,
 				C298B942277403CF009A1C37 /* Preview Content */,
@@ -67,6 +105,51 @@
 				C298B943277403CF009A1C37 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C298B951277403F2009A1C37 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C298B94B277403F0009A1C37 /* ReleasesView.swift */,
+				C298B988277410AE009A1C37 /* SingleReleaseView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C298B952277403F5009A1C37 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C298B94C277403F0009A1C37 /* ReleasesModel.swift */,
+				C298B97027740A7E009A1C37 /* CompilersModel.swift */,
+				C298B97627740A8D009A1C37 /* DateClassModel.swift */,
+				C298B97827740A92009A1C37 /* LinksModel.swift */,
+				C298B98027740AA3009A1C37 /* VersionModel.swift */,
+				C298B97E27740A9E009A1C37 /* SdksModel.swift */,
+				C298B97C27740A9A009A1C37 /* NameModel.swift */,
+				C298B96E27740A79009A1C37 /* ChecksumsModel.swift */,
+				C298B97227740A83009A1C37 /* ClangModel.swift */,
+				C298B97427740A89009A1C37 /* ClangReleaseModel.swift */,
+				C298B97A27740A96009A1C37 /* DownloadModel.swift */,
+				C298B98227740AA7009A1C37 /* VersionReleaseModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C298B953277403F9009A1C37 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				C298B94D277403F0009A1C37 /* ReleasesViewModel.swift */,
+				C298B98427740BF1009A1C37 /* Constants.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		C298B98A2774204C009A1C37 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				C298B98B27742056009A1C37 /* NSView+Extension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,8 +222,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C298B97F27740A9E009A1C37 /* SdksModel.swift in Sources */,
+				C298B98527740BF1009A1C37 /* Constants.swift in Sources */,
+				C298B96F27740A79009A1C37 /* ChecksumsModel.swift in Sources */,
+				C298B97327740A83009A1C37 /* ClangModel.swift in Sources */,
+				C298B989277410AE009A1C37 /* SingleReleaseView.swift in Sources */,
+				C298B97727740A8D009A1C37 /* DateClassModel.swift in Sources */,
+				C298B97927740A92009A1C37 /* LinksModel.swift in Sources */,
+				C298B97527740A89009A1C37 /* ClangReleaseModel.swift in Sources */,
+				C298B950277403F0009A1C37 /* ReleasesViewModel.swift in Sources */,
 				C298B93F277403CF009A1C37 /* ContentView.swift in Sources */,
+				C298B98C27742056009A1C37 /* NSView+Extension.swift in Sources */,
+				C298B98127740AA3009A1C37 /* VersionModel.swift in Sources */,
 				C298B93D277403CF009A1C37 /* XcodeReleasesApp.swift in Sources */,
+				C298B94E277403F0009A1C37 /* ReleasesView.swift in Sources */,
+				C298B97127740A7E009A1C37 /* CompilersModel.swift in Sources */,
+				C298B98327740AA7009A1C37 /* VersionReleaseModel.swift in Sources */,
+				C298B94F277403F0009A1C37 /* ReleasesModel.swift in Sources */,
+				C298B97D27740A9A009A1C37 /* NameModel.swift in Sources */,
+				C298B97B27740A96009A1C37 /* DownloadModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
